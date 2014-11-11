@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationLab</string>
+    <string name="footer_text">Get New Place</string>
+    <string name="delete">Delete</string>
+    <string name="print">Print</string>
+    <string name="place_one">Place One</string>
+    <string name="place_no_country">Place No Country</string>
+    <string name="place_two">Place Two</string>
+    <string name="latitude_string">Latitude</string>
+    <string name="longitude_string">Longitude</string>
+    <string name="latitude_out_of_bounds_string">Make sure latitude is between 0 and 90</string>
+    <string name="longitude_out_of_bounds_string">Make sure longitude is between -180 and 180</string>
+    <string name="no_country_string">There is no country at this location</string>
+    <string name="mock_name_united_states_string">United States</string>
+    <string name="the_greenhouse_string">The Greenhouse</string>
+    <string name="berwyn_string">Berwyn</string>
+    <string name="duplicate_location_string">You already have this location badge</string>
+
+</resources>
